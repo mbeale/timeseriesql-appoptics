@@ -16,10 +16,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">TimeSeriesQL</h3>
+  <h3 align="center">TimeSeriesQL-AppOptics</h3>
 
   <p align="center">
-    A Pythonic query language for time series data
+    A TimeSeriesQL backend for the AppOptics service
   </p>
 </p>
 
@@ -45,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project add AppOptics as a backend for the TimeSeriesQL ecosystem.    
+This project adds AppOptics as a backend for the TimeSeriesQL ecosystem.    
 
 
 ### Built With
